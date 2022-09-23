@@ -1,0 +1,12 @@
+#settings {
+   color: pink;
+   display: flex;
+   align-items: center;
+   justify-content: center
+
+}
+
+#settingCard {
+    border: 2px solid black;
+    padding: 10px;
+}
